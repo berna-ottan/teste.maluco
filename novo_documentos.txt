@@ -1,0 +1,3 @@
+um texto qualquer no meu arquivo
+
+outras linhas
